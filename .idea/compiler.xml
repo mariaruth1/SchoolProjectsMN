@@ -7,10 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BankProject" />
+        <module name="Flyweight_ladybug" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="BankProject" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>
