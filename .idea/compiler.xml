@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="BankProject" />
-        <module name="ObjectPoolCandidate" />
         <module name="Flyweight_ladybug" />
+        <module name="ObjectPoolTakeToo" />
+        <module name="BankProject" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ObjectPoolCandidate" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
