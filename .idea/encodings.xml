@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/BankProject/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/BankProject/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Flyweight_ladybug/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Flyweight_ladybug/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ObjectPoolCandidate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ObjectPoolCandidate/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ObjectPoolTakeToo/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ObjectPoolTakeToo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondSemester/BankProject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondSemester/BankProject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondSemester/CardGame/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondSemester/CardGame/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondSemester/Flyweight_ladybug/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondSemester/Flyweight_ladybug/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondSemester/JavaCollections/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondSemester/JavaCollections/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondSemester/ObjectPoolTakeToo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondSemester/ObjectPoolTakeToo/src/main/resources" charset="UTF-8" />
   </component>
 </project>

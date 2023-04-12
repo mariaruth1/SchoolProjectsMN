@@ -8,7 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Flyweight_ladybug" />
         <module name="ObjectPoolTakeToo" />
+        <module name="CardGame" />
         <module name="BankProject" />
+        <module name="JavaCollections" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
