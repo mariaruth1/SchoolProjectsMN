@@ -38,6 +38,11 @@ public class CardHand {
         return cardHandSize;
     }
 
+    public void addCard(Card card){
+        handOfCards.add(card);
+        cardHandSize++;
+    }
+
     public void setCardHandSize(int cardHandSize) {
         this.cardHandSize = cardHandSize;
     }

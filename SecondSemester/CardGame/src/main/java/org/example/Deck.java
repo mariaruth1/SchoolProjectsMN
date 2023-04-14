@@ -40,6 +40,7 @@ public class Deck {
             for (String value: cardValues)
                 cardDeck.add(new Card(suit, value));
         }
+        shuffleCards();
         return cardDeck;
     }
 

@@ -22,12 +22,11 @@ public class GameManager {
     }
 
     public void updateCardHand(){
-        //TODO why are no cards being added?
         List<Card> currentHand = cardHand.getHandOfCards();
-        while(currentHand.size()<5) {
-            currentHand.add(drawCard(deck));
+        while(cardHand.getCardHandSize()<5) {
+            cardHand.addCard(drawCard(deck));
+            System.out.println(cardHand.getHandOfCards().get(cardHand.getHandOfCards().size()-1).getSuit()+ ", " + cardHand.getHandOfCards().get(cardHand.getHandOfCards().size()-1).getValue());
         }
-        cardHand.setHandOfCards(cardHand.sortHandOfCards(currentHand));
+        cardHand.sortHandOfCards(currentHand);
     }
-
 }
